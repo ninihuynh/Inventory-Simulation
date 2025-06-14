@@ -46,7 +46,7 @@ git git@github.com:ninihuynh/Inventory-Simulation.git
 cd nail-salon-inventory-simulation
 
 ### 2. Install Required Python Libraries:
-- pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 
 ### 3. Run the Simulation
-- python3 inventory_simulation.py
+python3 inventory_simulation.py
