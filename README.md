@@ -52,7 +52,7 @@ cd nail-salon-inventory-simulation
 pip3 install -r requirements.txt
 ```
 
-### 3. Run the Simulation
+### 3. Run the Simulation:
 
 ```bash
 python3 inventory_simulation.py
