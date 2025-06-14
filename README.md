@@ -44,9 +44,16 @@ You can easily customize these products in the code to simulate different salon 
 ```bash
 git git@github.com:ninihuynh/Inventory-Simulation.git
 cd nail-salon-inventory-simulation
+```
 
 ### 2. Install Required Python Libraries:
+
+```bash
 pip3 install -r requirements.txt
+```
 
 ### 3. Run the Simulation
+
+```bash
 python3 inventory_simulation.py
+```
